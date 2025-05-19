@@ -1,5 +1,14 @@
-<h1 align="center">Hi! I'm Eduardo Fontana.<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"></h1>
-<p>As a 20-year-old computer engineering student and FullStack Developer, I established a solid foundation in programming languages, such as Python, JavaScript, and Typescript. My knowledge extends to modern frameworks, including NextJS, NestJS, React, Fastify, and Express, which I have previously used to develop complete web applications. Right now, I am building an e-commerce platform from scratch, handling all areas, ranging from back-end to deployment, as well as database management with ORMs, MySQL, and PostgreSQL. Furthermore, I have Robotic Process Automation (RPA) experience working with Python and smaller projects on Java Spring Boot and Artificial Intelligence. Currently, I'm looking foward to developing new projects and working with innovation.</p>
+<h1 align="center">
+  Hi! I'm Eduardo Fontana. <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Wave" width="50" height="50">
+</h1>
+
+<p>
+  As a 20-year-old computer engineering student and FullStack Developer, I established a solid foundation in programming languages, such as Python, JavaScript, and Typescript. My knowledge extends to modern frameworks, including NextJS, NestJS, React, Fastify, and Express, which I have previously used to develop complete web applications. Right now, I am building an e-commerce platform from scratch, handling all areas, ranging from back-end to deployment, as well as database management with ORMs, MySQL, and PostgreSQL. Furthermore, I have Robotic Process Automation (RPA) experience working with Python and smaller projects on Java Spring Boot and Artificial Intelligence. Currently, I'm looking forward to developing new projects and working with innovation.
+</p>
+
+<p>
+  🚀 Extension Project: Backend Trainee at TITAN (UFBA Computer Engineering Junior Enterprise)
+</p>
 
 ###
 
