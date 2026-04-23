@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  🚀 Extension Project: Backend Manager at TITAN (UFBA Computer Engineering Junior Enterprise)
+  🚀 Extension Project: Backend Developer at TITAN (UFBA Computer Engineering Junior Enterprise)
 </p>
 
 ###
